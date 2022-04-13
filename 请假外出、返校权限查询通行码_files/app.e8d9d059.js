@@ -431,11 +431,11 @@
             S = Object(a["g"])("div", {class: "mobile_pluginnames_hide"}, [Object(a["g"])("div", {class: "pluginnames"}, [Object(a["g"])("span", {
                 style: {
                     color: "rgb(135, 135, 135)",
-                    "font-size": "6px",
+                    "font-size": "4px",
                     "font-family": "微软雅黑",
-                    "line-height": "6px"
+                    "line-height": "8px"
                 }
-            }, "  ")]), Object(a["g"])("div", {class: "plugin-allbox"}, [Object(a["g"])("div", {
+            }, "动态")]), Object(a["g"])("div", {class: "plugin-allbox"}, [Object(a["g"])("div", {
                 "data-key": "Image_36",
                 class: "dplugin-box",
                 style: {"margin-top": "0px", "margin-bottom": "0px", "text-align": "left"}
