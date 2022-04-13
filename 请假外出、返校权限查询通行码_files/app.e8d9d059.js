@@ -433,7 +433,7 @@
                     color: "rgb(135, 135, 135)",
                     "font-size": "14px",
                     "font-family": "微软雅黑",
-                    "line-height": "20px"
+                    "line-height": "22px"
                 }
             }, "动态")]), Object(a["g"])("div", {class: "plugin-allbox"}, [Object(a["g"])("div", {
                 "data-key": "Image_36",
