@@ -431,9 +431,9 @@
             S = Object(a["g"])("div", {class: "mobile_pluginnames_hide"}, [Object(a["g"])("div", {class: "pluginnames"}, [Object(a["g"])("span", {
                 style: {
                     color: "rgb(135, 135, 135)",
-                    "font-size": "4px",
+                    "font-size": "10px",
                     "font-family": "微软雅黑",
-                    "line-height": "8px"
+                    "line-height": "16px"
                 }
             }, "动态")]), Object(a["g"])("div", {class: "plugin-allbox"}, [Object(a["g"])("div", {
                 "data-key": "Image_36",
