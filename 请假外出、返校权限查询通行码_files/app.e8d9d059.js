@@ -433,9 +433,9 @@
                     color: "rgb(135, 135, 135)",
                     "font-size": "14px",
                     "font-family": "微软雅黑",
-                    "line-height": "22px"
+                    "line-height": "4px"
                 }
-            }, "动态图")]), Object(a["g"])("div", {class: "plugin-allbox"}, [Object(a["g"])("div", {
+            }, "")]), Object(a["g"])("div", {class: "plugin-allbox"}, [Object(a["g"])("div", {
                 "data-key": "Image_36",
                 class: "dplugin-box",
                 style: {"margin-top": "0px", "margin-bottom": "0px", "text-align": "left"}
