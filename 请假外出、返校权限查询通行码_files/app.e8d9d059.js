@@ -426,9 +426,16 @@
                 class: "dplugin-box",
                 style: {"margin-top": "0px", "margin-bottom": "0px", "text-align": "center"}
             }, I = {class: "dplugin-mobile dplugin-mobile-dAvatar"},
-            z = {class: "dplugin-mobile-addfileed-box", style: {height: "100px", width: "100px", margin: "auto"}},
+            z = {class: "dplugin-mobile-addfileed-box", style: {height: "130px", width: "100px", margin: "auto"}},
             A = ["src"], C = Object(a["g"])("div", {class: "clear"}, null, -1),
-            S = Object(a["g"])("div", {class: "mobile_pluginnames_hide"}, [Object(a["g"])("div", {class: "plugin-allbox"}, [Object(a["g"])("div", {
+            S = Object(a["g"])("div", {class: "mobile_pluginnames_hide"}, [Object(a["g"])("div", {class: "pluginnames"}, [Object(a["g"])("span", {
+                style: {
+                    color: "rgb(135, 135, 135)",
+                    "font-size": "4px",
+                    "font-family": "微软雅黑",
+                    "line-height": "4px"
+                }
+            }, "")]), Object(a["g"])("div", {class: "plugin-allbox"}, [Object(a["g"])("div", {
                 "data-key": "Image_36",
                 class: "dplugin-box",
                 style: {"margin-top": "0px", "margin-bottom": "0px", "text-align": "left"}
